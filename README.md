@@ -1,5 +1,4 @@
-# retail-sales-analytics-snowflake
-Retail Sales Analytics Dashboard using Snowflake SQL
+
 # Retail Sales Analytics Dashboard
 
 ## Project Overview
