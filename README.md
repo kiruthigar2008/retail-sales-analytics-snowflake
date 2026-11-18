@@ -1,6 +1,9 @@
 
 # Retail Sales Analytics Dashboard
 
+## Dashboard Preview
+![Retail Sales Analytics Dashboard](retail_sales_dashboard.png)
+
 ## Project Overview
 An interactive retail sales analytics project built using Snowflake SQL. The dashboard helps analyze sales performance, product revenue, customer spending, and daily revenue trends.
 
@@ -42,5 +45,4 @@ A sample retail sales dataset containing 10 order records.
 ## Conclusion
 This project demonstrates how SQL and Snowflake can be used to transform sales data into meaningful business insights.
 
-## Dashboard Preview
-![Retail Sales Analytics Dashboard](retail_sales_dashboard.png)
+
