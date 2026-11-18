@@ -1,4 +1,4 @@
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/ded63cd4-92fc-4acb-ab0c-022946e0c192" /># retail-sales-analytics-snowflake
+# retail-sales-analytics-snowflake
 Retail Sales Analytics Dashboard using Snowflake SQL
 # Retail Sales Analytics Dashboard
 
