@@ -41,3 +41,6 @@ A sample retail sales dataset containing 10 order records.
 
 ## Conclusion
 This project demonstrates how SQL and Snowflake can be used to transform sales data into meaningful business insights.
+
+## Dashboard Preview
+![Retail Sales Analytics Dashboard](retail_sales_dashboard.png)
